@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Pasos para crear mi Sitio Web
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Crearé mi sitio web de mi plato favorito utilizando los repositorios de GitHub._
 
 </header>
 
@@ -18,40 +18,26 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## Pasos
 
-_Congratulations friend, you've completed this course!_
+_El sitio web será en tres grandes partes!_
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
+Aquí hay un resumen de todas las tareas que he realizado en mi repositorio:
 
-Here's a recap of all the tasks you've accomplished in your repository:
+- Habilité las páginas de GitHub.
+- Seleccioné un tema usando el archivo de configuración.
+- Aprendé sobre el formato de directorio adecuado y las convenciones de nomenclatura de archivos en Jekyll.
+- ¡Cree mi primer sitio web con Jekyll!
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+### A continuación..
 
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Compartir el sitio web con los compañeros
 
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
