@@ -22,7 +22,7 @@ _Crearé mi sitio web de mi plato favorito utilizando los repositorios de GitHub
 
 _El sitio web será en tres grandes partes!_
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/sopa_menestron.jpg alt=celebrate width=300 align=right>
 
 Aquí hay un resumen de todas las tareas que he realizado en mi repositorio:
 
