@@ -1,12 +1,11 @@
 # Anexo:
 
 
-## Imágenes de los ingredientes, para que se den una idea de como reemplazar en el lugar de origen de preparación.
-
+# Imágenes de los ingredientes, para que se den una idea de como reemplazar en el lugar de origen de preparación.
 
 
 # Costilla de res
-<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/costilla_res.jpg alt=celebrate width=300 align=leftt>
+<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/costilla_res.jpg>
 
 
 # Punta Pecho de res
