@@ -17,7 +17,7 @@ Imágenes de los ingredientes, para que se den una idea de como reemplazar en el
 ---
 ## Osobuco con hueso
 <img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/osobuco_hueso.jpg alt=celebrate width=300 align=left>
----
+
 
 ---
 ## Frejol verde
