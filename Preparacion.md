@@ -1,5 +1,7 @@
 ---
+---
 Preparación:
+---
 ---
 Lavar la costilla de res, punta de pecho de res, osobuco, luego colocar los tres tipos de carne en una olla a presión, agregar agua al ras de las carnes, sal al gusto e iniciar su cocción por 20 minutos.
 ---
