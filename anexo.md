@@ -5,16 +5,15 @@
 
 
 # Costilla de res
-<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/costilla_res.jpg>
-
+<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/costilla_res.jpg alt=celebrate width=200 align=left>
 
 # Punta Pecho de res
-<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/punta_pecho.jpg alt=celebrate width=300 align=left>
+<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/punta_pecho.jpg alt=celebrate width=200 align=left>
 
 
 # Osobuco con hueso
-<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/osobuco_hueso.jpg alt=celebrate width=300 align=left>
+<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/osobuco_hueso.jpg alt=celebrate width=200 align=left>
 
 
 # Frejol verde
-<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/frejol_verde.jpg alt=celebrate width=300 align=left>
+<img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/frejol_verde.jpg alt=celebrate width=200 align=left>
