@@ -1,4 +1,3 @@
----
 # Anexo:
 
 
@@ -20,5 +19,3 @@
 
 # Frejol verde
 <img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/frejol_verde.jpg alt=celebrate width=300 align=left>
-
----
