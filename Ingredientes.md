@@ -1,5 +1,5 @@
 ---
-Ingredientes (5 porciones):
+# Ingredientes (para 5 porciones):
 ---
 ---
 -	500 gramos de costilla de res
