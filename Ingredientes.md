@@ -1,0 +1,24 @@
+---
+Ingredientes (5 porciones):
+---
+---
+-	500 gramos de costilla de res
+-	500 gramos de punta de pecho
+-	500 gramos de osobuco con hueso
+-	500 gramos de yuca
+-	2 camotes
+-	3 papas blancas
+-	200 gramos Pallares frescos
+-	200 gramos de frejol verde
+-	2 zanahorias
+-	250 gramos de zapallo
+-	200 gramos de vainita
+-	100 gramos de alverjas
+-	1 atado de albahaca
+-	½ atado de espinaca
+-	100 gramos de queso fresco
+-	1 diente de ajos
+-	2 choclos en rodajas
+-	Sal al gusto
+-	Aceite oliva
+---
