@@ -9,7 +9,7 @@ Imágenes de los ingredientes, para que se den una idea de como reemplazar en el
 <img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/costilla_res.jpg alt=celebrate width=300 align=leftt>
 ---
 
----
+
 ## Punta Pecho de res
 <img src=https://github.com/AnyCumpa/Any-Cumpa.github.io/blob/Mis-Paginas/punta_pecho.jpg alt=celebrate width=300 align=left>
 ---
